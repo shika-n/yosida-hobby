@@ -1,0 +1,11 @@
+li a {
+	text-decoration: underline 2px transparent !important;
+}
+
+li a:hover {
+	text-decoration: underline 2px white !important;
+}
+
+canvas {
+	image-rendering: pixelated;
+}
